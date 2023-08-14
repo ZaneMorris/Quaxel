@@ -1,0 +1,12 @@
+Quadtree for storage of facet-prism intersection points
+
+Ray tracing for intersection between ray (vector) and facet
+    https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/ray-triangle-intersection-geometric-solution 
+
+Seperating Axis Theorem to determine existence of intersection between facet and volume
+    https://www.tandfonline.com/doi/pdf/10.1080/10867651.2001.10487535?needAccess=true 
+
+Inspiration for Methods Used:
+https://gc2011.graphicon.ru/html/2004/Proceedings/Technical/1[3].pdf
+https://link.springer.com/content/pdf/10.1007/978-3-642-22244-3.pdf 
+    - page 81
